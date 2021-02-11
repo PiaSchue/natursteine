@@ -1,0 +1,17 @@
+.aboutblock {
+    display: flex;
+    align-items: center;
+    margin: 0 auto 12px auto;
+  }
+
+.aboutimg {
+    flex: 0 0 96px;
+    width: 50vw;
+    height: auto;
+    margin: 0;
+  }
+.aboutdescription {
+    flex: 1;
+    margin-left: 2%;
+    padding: 3%;
+  }
